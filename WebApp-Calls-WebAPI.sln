@@ -5,6 +5,7 @@ VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DDAC3758-9CAE-4790-84B1-5B6258BAE44E}"
 	ProjectSection(SolutionItems) = preProject
+		nuget.config = nuget.config
 		README-incremental-instructions.md = README-incremental-instructions.md
 		README.md = README.md
 	EndProjectSection

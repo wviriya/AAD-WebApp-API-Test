@@ -1,22 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\webapp-api-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj": {}
+    "C:\\dev\\webapp-api-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\webapp-api-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj": {
+    "C:\\dev\\webapp-api-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj": {
       "version": "1.0.0-localbuild",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\webapp-api-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj",
+        "projectUniqueName": "C:\\dev\\webapp-api-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj",
         "projectName": "Microsoft.Identity.Web",
-        "projectPath": "C:\\Dev\\webapp-api-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj",
+        "projectPath": "C:\\dev\\webapp-api-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj",
         "packagesPath": "C:\\Users\\wviriya\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\webapp-api-ui-test\\Microsoft.Identity.Web\\obj\\",
+        "outputPath": "C:\\dev\\webapp-api-ui-test\\Microsoft.Identity.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
+          "C:\\dev\\webapp-api-ui-test\\NuGet.Config",
           "C:\\Users\\wviriya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
@@ -25,9 +26,7 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://pkgs.dev.azure.com/victorviriya/_packaging/link/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -80,9 +79,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

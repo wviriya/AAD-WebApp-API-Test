@@ -6650,16 +6650,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\webapp-api-ui-test\\UITests\\UITests.csproj",
+      "projectUniqueName": "C:\\dev\\webapp-api-ui-test\\UITests\\UITests.csproj",
       "projectName": "UITests",
-      "projectPath": "C:\\Dev\\webapp-api-ui-test\\UITests\\UITests.csproj",
+      "projectPath": "C:\\dev\\webapp-api-ui-test\\UITests\\UITests.csproj",
       "packagesPath": "C:\\Users\\wviriya\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\webapp-api-ui-test\\UITests\\obj\\",
+      "outputPath": "C:\\dev\\webapp-api-ui-test\\UITests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
+        "C:\\dev\\webapp-api-ui-test\\NuGet.Config",
         "C:\\Users\\wviriya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
@@ -6668,9 +6669,7 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://pkgs.dev.azure.com/victorviriya/_packaging/link/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
