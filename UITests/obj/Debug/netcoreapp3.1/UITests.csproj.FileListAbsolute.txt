@@ -182,6 +182,7 @@ C:\Dev\webapp-api-ui-test\UITests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.Visu
 C:\Dev\webapp-api-ui-test\UITests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Dev\webapp-api-ui-test\UITests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Dev\webapp-api-ui-test\UITests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Dev\webapp-api-ui-test\UITests\obj\Debug\netcoreapp3.1\UITests.csprojAssemblyReference.cache
 C:\Dev\webapp-api-ui-test\UITests\obj\Debug\netcoreapp3.1\UITests.csproj.CoreCompileInputs.cache
 C:\Dev\webapp-api-ui-test\UITests\obj\Debug\netcoreapp3.1\UITests.AssemblyInfoInputs.cache
 C:\Dev\webapp-api-ui-test\UITests\obj\Debug\netcoreapp3.1\UITests.AssemblyInfo.cs

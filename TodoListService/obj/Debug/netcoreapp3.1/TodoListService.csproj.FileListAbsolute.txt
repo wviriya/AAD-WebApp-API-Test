@@ -59,12 +59,6 @@ C:\Dev\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\4-1
 C:\Dev\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\4-1-MyOrg\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.csproj.CoreCompileInputs.cache
 C:\Dev\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\4-1-MyOrg\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.MvcApplicationPartsAssemblyInfo.cs
 C:\Dev\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\4-1-MyOrg\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.MvcApplicationPartsAssemblyInfo.cache
-C:\Dev\webapp-api-ui-test\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.csprojAssemblyReference.cache
-C:\Dev\webapp-api-ui-test\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.csproj.CoreCompileInputs.cache
-C:\Dev\webapp-api-ui-test\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.MvcApplicationPartsAssemblyInfo.cs
-C:\Dev\webapp-api-ui-test\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.MvcApplicationPartsAssemblyInfo.cache
-C:\Dev\webapp-api-ui-test\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.AssemblyInfoInputs.cache
-C:\Dev\webapp-api-ui-test\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.AssemblyInfo.cs
 C:\Dev\webapp-api-ui-test\TodoListService\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Dev\webapp-api-ui-test\TodoListService\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Dev\webapp-api-ui-test\TodoListService\bin\Debug\netcoreapp3.1\Connected Services\Application Insights\ConnectedService.json
@@ -113,6 +107,12 @@ C:\Dev\webapp-api-ui-test\TodoListService\bin\Debug\netcoreapp3.1\runtimes\win\l
 C:\Dev\webapp-api-ui-test\TodoListService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Dev\webapp-api-ui-test\TodoListService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.dll
 C:\Dev\webapp-api-ui-test\TodoListService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.pdb
+C:\Dev\webapp-api-ui-test\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.csprojAssemblyReference.cache
+C:\Dev\webapp-api-ui-test\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.csproj.CoreCompileInputs.cache
+C:\Dev\webapp-api-ui-test\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\webapp-api-ui-test\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\webapp-api-ui-test\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.AssemblyInfoInputs.cache
+C:\Dev\webapp-api-ui-test\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.AssemblyInfo.cs
 C:\Dev\webapp-api-ui-test\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.RazorTargetAssemblyInfo.cache
 C:\Dev\webapp-api-ui-test\TodoListService\obj\Debug\netcoreapp3.1\TodoListService.csproj.CopyComplete
 C:\Dev\webapp-api-ui-test\TodoListService\obj\Debug\netcoreapp3.1\staticwebassets\TodoListService.StaticWebAssets.Manifest.cache
