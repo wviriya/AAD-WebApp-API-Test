@@ -18,7 +18,7 @@ using System.Reflection;
     "tity platform (formerly Azure AD v2.0). When they call Web APIs, MSAL.NET is use" +
     "d to acquire tokens")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0-localbuild")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0-localbuild+2c323a5eea1bd0a0b846aa5f8e5003ef8bc2878b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Microsoft.Identity.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Microsoft.Identity.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
