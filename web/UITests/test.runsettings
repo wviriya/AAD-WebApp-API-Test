@@ -20,9 +20,9 @@
 
   <!-- Parameters used by tests at run time -->
   <TestRunParameters>
-    <Parameter name="appURL" value="https://azninja-client.azurewebsites.net/" />
+    <Parameter name="appURL" value="Target URL" />
     <Parameter name="browser" value="Chrome" />
-    <Parameter name="login_user" value="wviriya@microsoft.com" />
+    <Parameter name="login_user" value="User" />
     <Parameter name="login_password" value="Password" />
   </TestRunParameters>
 

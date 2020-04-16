@@ -19,4 +19,10 @@
     <PackageReference Include="Selenium.WebDriver.IEDriver" Version="3.150.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="test.runsettings">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
