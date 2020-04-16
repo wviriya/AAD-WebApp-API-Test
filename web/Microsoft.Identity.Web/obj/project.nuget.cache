@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bp7sSDJLA5cvog5ZHJy1xiS3DAw5gnHeGoVcRxzzaFQqoOT116xJgnk8aQoQhEOXJzs9e84YpnozB4x0/DNmWg==",
+  "dgSpecHash": "suzrbD9ETJWBeLZEqe+XkC1FjygJsLzYe5z0m2vLD48JgxG2Q11bgIU3uJRmdlD16MUU8fqsTFwc0Ad/w6Cx4Q==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj",
+  "projectFilePath": "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wviriya\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.1\\microsoft.aspnetcore.authentication.jwtbearer.3.1.1.nupkg.sha512",
     "C:\\Users\\wviriya\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\3.1.1\\microsoft.aspnetcore.authentication.openidconnect.3.1.1.nupkg.sha512",

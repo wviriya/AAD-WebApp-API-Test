@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0hLntN+Hi/uziyb1YHDFHP85p/rC8eB96l0hAEskhXrh5E0uMkdftHcBEvLBJGTTdh6TIw1kyime/mmi2OvyLA==",
+  "dgSpecHash": "nwtr03i9wjXqMYlNgatcuItOlqgOZ6Rlwb8j1oZXk4zv5Nk1iJSrNDeISkqaBhY3nWzLHJ5jH3KVmUutUGqf+g==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web.UI\\Microsoft.Identity.Web.UI.csproj",
+  "projectFilePath": "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web.UI\\Microsoft.Identity.Web.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wviriya\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\wviriya\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6cHNtrRZN8FbSFSrfyd+SuzUt3UxcoJR5CQgJIZHnekT1wIrXzuy2ujnz14RBEGIPz2gaPHceol+BlQL5mjKqw==",
+  "dgSpecHash": "D3XmfiHMW8h3PaeM+SfJnbMEzT1e6c/JWhkD37ZInDmOHMFXyRCHZkCUUElVX+OS5l4PKaw++4VBQHG8Dz8w6A==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\aad-web-ui-test\\UITests\\UITests.csproj",
+  "projectFilePath": "C:\\Dev\\aad-webapp-api-test\\web\\UITests\\UITests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wviriya\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\wviriya\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

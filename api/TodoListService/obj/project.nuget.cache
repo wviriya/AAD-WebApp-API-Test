@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P4yKUo+9e6XXlpm8TtAObnNZaubrt7LPB32PKZDc8kQpsZX5VWEdbcrJGYRpDwnr95xJQ2L8EyYR4vdIcEpU4Q==",
+  "dgSpecHash": "VQAUv9T6/8akeqbzf864qnJ+9f7Sje2t1+DT+kUSdfLvWDJir+wgqrbSzYpKlt125nRjhrPk2F2oJKmaWiinOA==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\aad-api-test\\TodoListService\\TodoListService.csproj",
+  "projectFilePath": "C:\\Dev\\aad-webapp-api-test\\api\\TodoListService\\TodoListService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wviriya\\.nuget\\packages\\microsoft.applicationinsights\\2.12.0\\microsoft.applicationinsights.2.12.0.nupkg.sha512",
     "C:\\Users\\wviriya\\.nuget\\packages\\microsoft.applicationinsights.aspnetcore\\2.12.0\\microsoft.applicationinsights.aspnetcore.2.12.0.nupkg.sha512",

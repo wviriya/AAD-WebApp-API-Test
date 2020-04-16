@@ -4849,17 +4849,16 @@
   "project": {
     "version": "1.0.0-localbuild",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\aad-api-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj",
+      "projectUniqueName": "C:\\Dev\\aad-webapp-api-test\\api\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj",
       "projectName": "Microsoft.Identity.Web",
-      "projectPath": "C:\\Dev\\aad-api-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj",
+      "projectPath": "C:\\Dev\\aad-webapp-api-test\\api\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj",
       "packagesPath": "C:\\Users\\wviriya\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\aad-api-test\\Microsoft.Identity.Web\\obj\\",
+      "outputPath": "C:\\Dev\\aad-webapp-api-test\\api\\Microsoft.Identity.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Dev\\aad-api-test\\NuGet.Config",
         "C:\\Users\\wviriya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
@@ -4868,7 +4867,9 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "https://pkgs.dev.azure.com/victorviriya/115a4579-ba9a-4bc7-935b-1c388fcd9818/_packaging/dotnet_feed/nuget/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -4928,7 +4929,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

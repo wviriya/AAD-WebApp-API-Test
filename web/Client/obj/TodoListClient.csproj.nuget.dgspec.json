@@ -1,23 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\aad-web-ui-test\\Client\\TodoListClient.csproj": {}
+    "C:\\Dev\\aad-webapp-api-test\\web\\Client\\TodoListClient.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\aad-web-ui-test\\Client\\TodoListClient.csproj": {
+    "C:\\Dev\\aad-webapp-api-test\\web\\Client\\TodoListClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\aad-web-ui-test\\Client\\TodoListClient.csproj",
+        "projectUniqueName": "C:\\Dev\\aad-webapp-api-test\\web\\Client\\TodoListClient.csproj",
         "projectName": "TodoListClient",
-        "projectPath": "C:\\Dev\\aad-web-ui-test\\Client\\TodoListClient.csproj",
+        "projectPath": "C:\\Dev\\aad-webapp-api-test\\web\\Client\\TodoListClient.csproj",
         "packagesPath": "C:\\Users\\wviriya\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\aad-web-ui-test\\Client\\obj\\",
+        "outputPath": "C:\\Dev\\aad-webapp-api-test\\web\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Dev\\aad-web-ui-test\\NuGet.Config",
           "C:\\Users\\wviriya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
@@ -26,16 +25,18 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://pkgs.dev.azure.com/victorviriya/115a4579-ba9a-4bc7-935b-1c388fcd9818/_packaging/dotnet_feed/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web.UI\\Microsoft.Identity.Web.UI.csproj": {
-                "projectPath": "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web.UI\\Microsoft.Identity.Web.UI.csproj"
+              "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web.UI\\Microsoft.Identity.Web.UI.csproj": {
+                "projectPath": "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web.UI\\Microsoft.Identity.Web.UI.csproj"
               },
-              "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj": {
-                "projectPath": "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj"
+              "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj": {
+                "projectPath": "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj"
               }
             }
           }
@@ -84,24 +85,23 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web.UI\\Microsoft.Identity.Web.UI.csproj": {
+    "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web.UI\\Microsoft.Identity.Web.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web.UI\\Microsoft.Identity.Web.UI.csproj",
+        "projectUniqueName": "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web.UI\\Microsoft.Identity.Web.UI.csproj",
         "projectName": "Microsoft.Identity.Web.UI",
-        "projectPath": "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web.UI\\Microsoft.Identity.Web.UI.csproj",
+        "projectPath": "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web.UI\\Microsoft.Identity.Web.UI.csproj",
         "packagesPath": "C:\\Users\\wviriya\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web.UI\\obj\\",
+        "outputPath": "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Dev\\aad-web-ui-test\\NuGet.Config",
           "C:\\Users\\wviriya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
@@ -110,13 +110,15 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://pkgs.dev.azure.com/victorviriya/115a4579-ba9a-4bc7-935b-1c388fcd9818/_packaging/dotnet_feed/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj": {
-                "projectPath": "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj"
+              "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj": {
+                "projectPath": "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj"
               }
             }
           }
@@ -157,24 +159,23 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj": {
+    "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj": {
       "version": "1.0.0-localbuild",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj",
+        "projectUniqueName": "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj",
         "projectName": "Microsoft.Identity.Web",
-        "projectPath": "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj",
+        "projectPath": "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web\\Microsoft.Identity.Web.csproj",
         "packagesPath": "C:\\Users\\wviriya\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\aad-web-ui-test\\Microsoft.Identity.Web\\obj\\",
+        "outputPath": "C:\\Dev\\aad-webapp-api-test\\web\\Microsoft.Identity.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Dev\\aad-web-ui-test\\NuGet.Config",
           "C:\\Users\\wviriya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
@@ -183,7 +184,9 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://pkgs.dev.azure.com/victorviriya/115a4579-ba9a-4bc7-935b-1c388fcd9818/_packaging/dotnet_feed/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -243,7 +246,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
