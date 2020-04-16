@@ -1,0 +1,11 @@
+C:\Dev\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\4-1-MyOrg\EdgeDriverTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\4-1-MyOrg\EdgeDriverTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\4-1-MyOrg\EdgeDriverTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\4-1-MyOrg\EdgeDriverTest\bin\Debug\netcoreapp2.1\EdgeDriverTest.deps.json
+C:\Dev\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\4-1-MyOrg\EdgeDriverTest\bin\Debug\netcoreapp2.1\EdgeDriverTest.runtimeconfig.json
+C:\Dev\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\4-1-MyOrg\EdgeDriverTest\bin\Debug\netcoreapp2.1\EdgeDriverTest.runtimeconfig.dev.json
+C:\Dev\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\4-1-MyOrg\EdgeDriverTest\bin\Debug\netcoreapp2.1\EdgeDriverTest.dll
+C:\Dev\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\4-1-MyOrg\EdgeDriverTest\obj\Debug\netcoreapp2.1\EdgeDriverTest.csprojAssemblyReference.cache
+C:\Dev\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\4-1-MyOrg\EdgeDriverTest\obj\Debug\netcoreapp2.1\EdgeDriverTest.AssemblyInfoInputs.cache
+C:\Dev\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\4-1-MyOrg\EdgeDriverTest\obj\Debug\netcoreapp2.1\EdgeDriverTest.AssemblyInfo.cs
+C:\Dev\active-directory-aspnetcore-webapp-openidconnect-v2\4-WebApp-your-API\4-1-MyOrg\EdgeDriverTest\obj\Debug\netcoreapp2.1\EdgeDriverTest.genruntimeconfig.cache

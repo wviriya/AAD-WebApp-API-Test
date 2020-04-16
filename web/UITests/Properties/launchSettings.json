@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "UITests": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "appURL": "https://azninja-client.azurewebsites.net",
+        "login_password": "password",
+        "login_user": "wviriya@microsoft.com",
+        "browser": "Chrome"
+      }
+    }
+  }
+}
