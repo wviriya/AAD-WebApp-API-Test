@@ -3,9 +3,9 @@
     "UITests": {
       "commandName": "Project",
       "environmentVariables": {
-        "appURL": "https://azninja-client.azurewebsites.net",
+        "appURL": "target URL",
         "login_password": "password",
-        "login_user": "wviriya@microsoft.com",
+        "login_user": "username",
         "browser": "Chrome"
       }
     }
