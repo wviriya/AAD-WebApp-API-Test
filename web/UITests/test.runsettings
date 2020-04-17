@@ -11,7 +11,7 @@
     <TargetPlatform>x86</TargetPlatform>
 
     <!-- Framework35 | [Framework40] | Framework45 -->
-    <TargetFrameworkVersion>netcoreapp2.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>netcoreapp3.1</TargetFrameworkVersion>
 
     <!-- TestSessionTimeout was introduced in Visual Studio 2017 version 15.5 -->
     <!-- Specify timeout in milliseconds. A valid value should be greater than 0 -->
