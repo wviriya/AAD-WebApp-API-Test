@@ -84,14 +84,22 @@ namespace UITests
             _driver.Navigate().GoToUrl(appURL);
             _driver.FindElement(By.Id("i0116")).Clear();
             _driver.FindElement(By.Id("i0116")).SendKeys(user);
-            //_driver.FindElement(By.Id("i0116")).SendKeys(Keys.Enter);
-            var passwordField = _driver.FindElement(By.Id("i0118"));
-            if (passwordField != null)
+            _driver.FindElement(By.Id("i0116")).SendKeys(Keys.Enter);
+            Thread.Sleep(3000);
+
+            var domObj = _driver.FindElement(By.Id("i0118"));
+            if (domObj != null)
             {
-                passwordField.SendKeys(password);
+                domObj.SendKeys(password);
+                domObj.SendKeys(Keys.Enter);
             }
-            _driver.FindElement(By.Id("idSIButton9")).Click();
-            Thread.Sleep(7000);
+            Thread.Sleep(3000);
+
+            domObj = _driver.FindElement(By.Id("idBtn_Back"));
+            if (domObj != null)
+            {
+                domObj.Click();
+            }
         }
 
         [TestMethod]

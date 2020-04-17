@@ -381,3 +381,4 @@ C:\Dev\aad-webapp-api-test\web\UITests\obj\Debug\netcoreapp3.1\UITests.csproj.Co
 C:\Dev\aad-webapp-api-test\web\UITests\obj\Debug\netcoreapp3.1\UITests.dll
 C:\Dev\aad-webapp-api-test\web\UITests\obj\Debug\netcoreapp3.1\UITests.pdb
 C:\Dev\aad-webapp-api-test\web\UITests\obj\Debug\netcoreapp3.1\UITests.genruntimeconfig.cache
+C:\Dev\aad-webapp-api-test\web\UITests\obj\Debug\netcoreapp3.1\UITests.csprojAssemblyReference.cache
