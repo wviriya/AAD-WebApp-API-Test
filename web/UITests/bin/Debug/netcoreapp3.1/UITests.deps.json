@@ -12,7 +12,7 @@
           "MSTest.TestFramework": "2.0.0",
           "Microsoft.Identity.Client": "4.10.0",
           "Microsoft.NET.Test.Sdk": "16.5.0",
-          "Selenium.Chrome.WebDriver": "79.0.0",
+          "Selenium.Chrome.WebDriver": "81.0.0",
           "Selenium.Firefox.WebDriver": "0.26.0",
           "Selenium.WebDriver": "3.141.0",
           "Selenium.WebDriver.ChromeDriver": "80.0.3987.10600",
@@ -449,7 +449,7 @@
       "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
-      "Selenium.Chrome.WebDriver/79.0.0": {},
+      "Selenium.Chrome.WebDriver/81.0.0": {},
       "Selenium.Firefox.WebDriver/0.26.0": {},
       "Selenium.WebDriver/3.141.0": {
         "dependencies": {
@@ -1474,12 +1474,12 @@
       "path": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "hashPath": "runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512"
     },
-    "Selenium.Chrome.WebDriver/79.0.0": {
+    "Selenium.Chrome.WebDriver/81.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-BKamee/fxFy7+hvQD7rXMWaYxdrSQDZHevT5NeMeDCqD2c1jsFh0zAbGR56usfWOpuIJT8RC6TWDkcSQjeWS6A==",
-      "path": "selenium.chrome.webdriver/79.0.0",
-      "hashPath": "selenium.chrome.webdriver.79.0.0.nupkg.sha512"
+      "sha512": "sha512-4ezM22zMCtSEVajf6uhn4YIDfP/LTMYt44vkgn6bZ4K2oTKIpVyw37JJh6O2ko4c3FiQe0quwH2ut4GkmmaedQ==",
+      "path": "selenium.chrome.webdriver/81.0.0",
+      "hashPath": "selenium.chrome.webdriver.81.0.0.nupkg.sha512"
     },
     "Selenium.Firefox.WebDriver/0.26.0": {
       "type": "package",

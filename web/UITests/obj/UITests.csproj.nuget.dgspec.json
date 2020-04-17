@@ -61,7 +61,7 @@
             },
             "Selenium.Chrome.WebDriver": {
               "target": "Package",
-              "version": "[79.0.0, )"
+              "version": "[81.0.0, )"
             },
             "Selenium.Firefox.WebDriver": {
               "target": "Package",
